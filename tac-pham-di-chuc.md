@@ -26,6 +26,6 @@ Là người sáng lập Đảng, Chủ tịch Hồ Chí Minh suốt đời chă
 
 Quan tâm tới con người luôn chiếm vị trí quan trọng trong chỉ đạo và điều hành đất nước của Chủ tịch Hồ Chí Minh. Trong Di chúc, Người nhắc đến tất thảy mọi người, từ "bà con lao động, công nhân, nông dân, thanh niên, học sinh, trí thức". Người căn dặn Đảng "phải có kế hoạch thật tốt để phát triển kinh tế và văn hóa, nhằm không ngừng nâng cao đời sống của nhân dân"...
 
-<figure><img src=".gitbook/assets/BanDiChucVietTay (1).jpg" alt="Bản di chúc viết tay của Chủ tịch Hồ Chí Minh. Ảnh: Nhà xuất bản Trẻ"><figcaption><p>Bản di chúc viết tay của Chủ tịch Hồ Chí Minh. Ảnh: Nhà xuất bản Trẻ</p></figcaption></figure>
+<figure><img src=".gitbook/assets/BanDiChucVietTay.jpg" alt="Bản di chúc viết tay của Chủ tịch Hồ Chí Minh. Ảnh: Nhà xuất bản Trẻ"><figcaption><p>Bản di chúc viết tay của Chủ tịch Hồ Chí Minh. Ảnh: Nhà xuất bản Trẻ</p></figcaption></figure>
 
 Chỉ với hơn 1.000 từ vô cùng ngắn gọn, Di chúc của Người đã truyền cho toàn Đảng, toàn dân và toàn quân ta ý chí quyết tâm sắt đá, niềm tin mãnh liệt vào sức mạnh vĩ đại của dân tộc Việt Nam; sức mạnh của chính nghĩa và chân lý "Không có gì quý hơn độc lập tự do"; sức mạnh của chủ nghĩa yêu nước và chủ nghĩa anh hùng cách mạng Việt Nam.
