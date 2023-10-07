@@ -14,7 +14,7 @@ layout:
 
 # Tác phẩm “Đường Kách mệnh”
 
-<figure><img src="https://tinhuyquangtri.vn/ckfinder/userfiles/images/dkm.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/DuongKachMenh.jpeg" alt="Một bản thảo Đường Kách mệnh quý báu được lưu giữ tại Bảo tàng Lịch sử Quốc gia. Ảnh: Báo Du lịch"><figcaption><p>Một bản thảo Đường Kách mệnh quý báu được lưu giữ tại Bảo tàng Lịch sử Quốc gia. Ảnh: Báo Du lịch</p></figcaption></figure>
 
 Cách đây hơn 9 thập kỉ, năm 1927, "Đường Kách mệnh" - cuốn sách tập hợp các bài giảng của lãnh tụ Nguyễn Ái Quốc dùng để đào tạo lứa cán bộ đầu tiên cho cách mạng Việt Nam giai đoạn 1925-1927 ở Quảng Châu (Trung Quốc), lần đầu tiên được xuất bản. Đây là một tác phẩm lý luận chính trị đặc biệt quan trọng của lãnh tụ Nguyễn Ái Quốc, vạch ra mục tiêu, con đường và phương pháp cách mạng Việt Nam vào những năm 20-30 của thế kỷ XX, nhằm giải phóng dân tộc, giải phóng giai cấp, giải phóng xã hội và con người ra khỏi tình trạng bị áp bức, nô dịch bởi chủ nghĩa tư bản.
 
