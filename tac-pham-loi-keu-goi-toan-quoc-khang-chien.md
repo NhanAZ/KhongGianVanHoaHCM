@@ -14,7 +14,7 @@ layout:
 
 # Tác phẩm “Lời kêu gọi toàn quốc kháng chiến”
 
-<figure><img src="https://tinhuyquangtri.vn/ckfinder/userfiles/images/lkg.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/LoiKeuGoiToanQuocKhangChien.jpg" alt=""><figcaption><p>"Lời kêu gọi toàn quốc kháng chiến" của Chủ tịch Hồ Chí Minh.</p></figcaption></figure>
 
 "Hỡi đồng bào toàn quốc! Chúng ta muốn hòa bình, chúng ta phải nhân nhượng. Nhưng chúng ta càng nhân nhượng, thực dân Pháp càng lấn tới, vì chúng quyết tâm cướp nước ta lần nữa! Không! Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ...", sáng 20-12-1946, lời kêu gọi nhân dân cả nước đứng dậy chống thực dân Pháp của Chủ tịch Hồ Chí Minh vang lên trên sóng Đài TNVN khắp mọi miền Tổ quốc.
 
