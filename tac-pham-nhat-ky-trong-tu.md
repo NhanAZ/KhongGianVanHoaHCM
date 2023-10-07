@@ -14,7 +14,7 @@ layout:
 
 # Tác phẩm “Nhật ký trong tù”
 
-<figure><img src="https://tinhuyquangtri.vn/ckfinder/userfiles/images/nktt.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/NhatKyTrongTu.jpg" alt="Bìa tập &#x22;Nhật ký trong tù&#x22; của Chủ tịch Hồ Chí Minh." width="227"><figcaption><p>Bìa tập "Nhật ký trong tù" của Chủ tịch Hồ Chí Minh.</p></figcaption></figure>
 
 Trong các văn phẩm của Chủ tịch Hồ Chí mInh, Nhật ký trong tù có một vị trí đặc biệt, được viết trong một hoàn cảnh đặc biệt, được dư luận trong nước và thế giới biết đến cũng rất đặc biệt. Đây không phải là bài thơ mà là một tập thơ, 135 bài thơ được viết bằng chữ Hán.Tháng 8-1942, với danh nghĩa là đại biểu Việt Nam Ðộc lập Ðồng minh và Phái bộ quốc tế chống xâm lược, Bác Hồ từ Cao Bằng sang Trung Quốc để vận động quốc tế ủng hộ cách mạng Việt Nam giành độc lập, nhưng đã bị chính quyền Tưởng Giới Thạch bắt giam vô cớ, sau đó giải qua nhiều nhà lao thuộc tỉnh Quảng Tây từ ngày 25-8-1942 đến ngày 19-9-1943.
 
