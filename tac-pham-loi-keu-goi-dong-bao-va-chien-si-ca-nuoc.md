@@ -14,7 +14,7 @@ layout:
 
 # Tác phẩm “Lời kêu gọi đồng bào và chiến sĩ cả nước”
 
-<figure><img src="https://tinhuyquangtri.vn/ckfinder/userfiles/images/db.png" alt="" width="375"><figcaption><p><em>Chủ tịch Hồ Chí Minh đọc lời kêu gọi đồng bào và chiến sĩ cả nước quyết tâm đánh thắng giặc Mỹ xâm lược</em></p></figcaption></figure>
+<figure><img src=".gitbook/assets/LoiKeuGoiDongBaoVaChienSiCaNuoc.png" alt="Chủ tịch Hồ Chí Minh đọc lời kêu gọi đồng bào và chiến sĩ cả nước quyết tâm đánh thắng giặc Mỹ xâm lược. Người khẳng định: &#x22;Không có gì quý hơn độc lập tự do&#x22;. Hà Nội, ngày 17-7-1966."><figcaption><p>Chủ tịch Hồ Chí Minh đọc lời kêu gọi đồng bào và chiến sĩ cả nước quyết tâm đánh thắng giặc Mỹ xâm lược. Người khẳng định: "Không có gì quý hơn độc lập tự do". Hà Nội, ngày 17-7-1966.</p></figcaption></figure>
 
 Lịch sử đã trao cho dân tộc Việt Nam sứ mệnh nặng nề khi cuộc kháng chiến chống Mỹ cứu nước của nhân dân ta trở thành cuộc đọ sức điển hình, thành tâm điểm của cuộc đấu tranh vô cùng quyết liệt giữa cách mạng và phản cách mạng. Ngày 17-7-1966, khi cuộc kháng chiến chống Mỹ, cứu nước của dân tộc ta bước vào giai đoạn ác liệt nhất, đế quốc Mỹ mở rộng chiến tranh bằng không quân đánh phá miền Bắc, một lần nữa, trên sóng Đài TNVN đã vang lên "Lời kêu gọi đồng bào và chiến sĩ cả nước" của Chủ tịch Hồ Chí Minh.  Lời hiệu triệu của vị lãnh tụ kính yêu đã thôi thúc hàng triệu con tim, khối óc đồng bào, chiến sĩ hăng hái lên đường đánh giặc, giành độc lập, tự do cho non sông, đất nước.
 
