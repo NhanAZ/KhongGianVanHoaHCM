@@ -14,7 +14,7 @@ layout:
 
 # Tác phẩm “Di chúc”
 
-<figure><img src="https://tinhuyquangtri.vn/ckfinder/userfiles/images/dc.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/DiChuc.jpg" alt="Bản di chúc viết tay của Chủ tịch Hồ Chí Minh. Ảnh: Nhà xuất bản Trẻ"><figcaption><p>Bản di chúc viết tay của Chủ tịch Hồ Chí Minh. Ảnh: Nhà xuất bản Trẻ</p></figcaption></figure>
 
 Với mục đích để “đồng bào cả nước, đồng chí trong Đảng và bầu bạn khắp nơi đều khỏi cảm thấy đột ngột” lúc Người phải về nơi vô cùng, vô tận. Người đã âm thầm để sẵn “mấy lời” và chúng ta thành kính gọi là Di chúc. Thời gian vẫn không ngừng trôi, nhưng mỗi lần đọc lại những dòng chữ chan chứa yêu thương đó, chúng ta như được tiếp thêm sức mạnh để thực hiện tốt hơn những di nguyện của Người. Di chúc được Người bắt đầu chấp bút từ tháng 5-1965 đến tháng 5-1969, nghiền ngẫm trong 4 năm trời, chắt lọc tình cảm và suy nghĩ của cả cuộc đời, bản Di chúc đã đề cập đến những vấn đề trọng yếu của đời sống dân tộc cũng như tương lai của đất nước. Bằng lời lẽ mộc mạc, giản dị nhưng lại vô cùng súc tích, Di chúc tuy ngắn gọn nhưng chứa đựng toàn bộ tình cảm và tư tưởng của Người đối với sự nghiệp cách mạng, và các thế hệ người Việt Nam.
 
