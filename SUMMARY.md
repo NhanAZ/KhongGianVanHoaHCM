@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Giá trị và sức sống 5 tác phẩm tiêu biểu của chủ tịch Hồ Chí Minh](README.md)
+* [Những tác phẩm trở thành “Bảo vật Quốc gia” của Chủ tịch Hồ Chí Minh](README.md)
 * [Tác phẩm “Đường Kách mệnh”](tac-pham-duong-kach-menh.md)
 * [Tác phẩm “Nhật ký trong tù”](tac-pham-nhat-ky-trong-tu.md)
 * [Tác phẩm “Lời kêu gọi toàn quốc kháng chiến”](tac-pham-loi-keu-goi-toan-quoc-khang-chien.md)
