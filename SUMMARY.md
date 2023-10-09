@@ -6,3 +6,4 @@
 * [Tác phẩm “Lời kêu gọi toàn quốc kháng chiến”](tac-pham-loi-keu-goi-toan-quoc-khang-chien.md)
 * [Tác phẩm “Lời kêu gọi đồng bào và chiến sĩ cả nước”](tac-pham-loi-keu-goi-dong-bao-va-chien-si-ca-nuoc.md)
 * [Tác phẩm “Di chúc”](tac-pham-di-chuc.md)
+* [Tác phẩm "Đối nguyệt"](tac-pham-doi-nguyet.md)
