@@ -20,3 +20,10 @@ Ngoài song, trăng rọi cây sân,\
 Ánh trăng nhích bóng cây gần trước song.\
 Việc quân, việc nước bàn xong,\
 Gối khuya ngon giấc bên song trăng nhòm.
+
+## 對月
+
+窗外月明籠古樹\
+月移樹影到窗前\
+軍機國計商談了\
+攜枕窗旁對月眠
