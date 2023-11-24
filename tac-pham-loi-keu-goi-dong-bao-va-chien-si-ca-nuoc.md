@@ -5,11 +5,11 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Tác phẩm “Lời kêu gọi đồng bào và chiến sĩ cả nước”
