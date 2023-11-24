@@ -25,3 +25,5 @@ Chủ tịch Hồ Chí Minh luôn coi độc lập dân tộc và tự do, hòa 
 Ra đời trong thời khắc lịch sử đặc biệt, “Lời kêu gọi toàn quốc kháng chiến” của Chủ tịch Hồ Chí Minh đã tác động đến sâu thẳm lòng yêu nước và ý chí quật cường của dân tộc. Hơn 7 thập kỉ trôi qua, lời kêu gọi bất hủ có giá trị lịch sử sâu sắc đó đã trở thành một văn kiện, một bản thiên cổ hùng văn, trường tồn cùng lịch sử Việt Nam trong thời đại mới. Trước những thăng trầm của thời gian, giá trị lịch sử của "Lời kêu gọi toàn quốc kháng chiến" vẫn luôn là kim chỉ nam cho mọi hành động cách mạng của Đảng và toàn thể nhân dân Việt Nam, cổ vũ cán bộ, chiến sĩ, đồng bào kề vai sát cánh, chung sức, đồng lòng cũng như để lại những kinh nghiệm quý báu để xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.
 
 {% embed url="https://youtu.be/jybyPff6o-Y?si=pg1lwCvPxYkO_h3q" %}
+“Lời kêu gọi toàn quốc kháng chiến” - Sự khẳng định ý chí và quyết tâm sắt đá bảo vệ nền độc lập
+{% endembed %}
