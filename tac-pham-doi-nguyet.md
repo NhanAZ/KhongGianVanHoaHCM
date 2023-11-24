@@ -14,8 +14,6 @@ layout:
 
 # Tác phẩm "Đối nguyệt"
 
-Hồ Chí Minh (1890 - 1969), tên khai sinh là Nguyễn Sinh Cung - vị lãnh tụ của dân tộc Việt Nam anh hùng giải phóng dân tộc, danh nhân văn hóa thế giới. Sinh thời, Bác Hồ không chỉ là nhà chính trị, nhà cách mạng mà còn là nhà văn, nhà thơ lớn, nhà phê bình văn học. Với lối phong cách thơ thiêng về về thiên nhiên đất nước với tình yêu tha thiết, niềm tự hào, lời thơ nhẹ nhàng bay bổng lãng mạn, Bác đã để lại cho kho tàng văn học nhân loại những trang thơ, những kiệt tác nghệ thuật thơ văn đầy sức lãng mạn và hồn thơ kháng chiến thời bấy giờ.
-
 Bác đã sáng tác rất nhiều bài thơ làm rung động lòng người. Trong đó, "Ngắm trăng" là một trong những thi phẩm xuất xắc nhất của Người. Đặc biệt đây là một trong những tập thơ của tuyển tập "Nhật ký trong tù" nổi tiếng mà Bác để lại trong suốt khoảng thời gian bị tù đày:
 
 Tháng 8 năm 1942, Hồ Chí Minh từ Pác Bó (Cao Bằng) bí mật lên đường sang Trung Quốc để tranh thủ viên trợ quốc tế cho cách mạng Việt Nam. Khi đến thị trấn Túc Vinh thì Người bị chính quyền địa phương bắt giữ, rồi bị giải tới giải lui gần 30 nhà giam của 13 huyện thuộc tỉnh Quảng Tây, bị đày đọa cực khổ hơn một năm trời. Trong những ngày đó, Bác đã viết "Nhật ký trong tù" bằng thơ chữ Hán gồm 133 bài, phần lớn là thơ tứ tuyệt. Và "Ngắm trăng" chính là một trong những bài thơ đó.&#x20;
