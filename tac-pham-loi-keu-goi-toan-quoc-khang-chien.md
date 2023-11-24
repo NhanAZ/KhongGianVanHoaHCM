@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Tác phẩm “Lời kêu gọi toàn quốc kháng chiến”
 
 <figure><img src=".gitbook/assets/LoiKeuGoiToanQuocKhangChien.jpg" alt=""><figcaption><p>"Lời kêu gọi toàn quốc kháng chiến" của Chủ tịch Hồ Chí Minh.</p></figcaption></figure>
