@@ -14,9 +14,9 @@ layout:
 
 # Tác phẩm “Lời kêu gọi toàn quốc kháng chiến”
 
-<figure><img src=".gitbook/assets/LoiKeuGoiToanQuocKhangChien.jpg" alt=""><figcaption><p>"Lời kêu gọi toàn quốc kháng chiến" của Chủ tịch Hồ Chí Minh.</p></figcaption></figure>
-
 "Hỡi đồng bào toàn quốc! Chúng ta muốn hòa bình, chúng ta phải nhân nhượng. Nhưng chúng ta càng nhân nhượng, thực dân Pháp càng lấn tới, vì chúng quyết tâm cướp nước ta lần nữa! Không! Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ...", sáng 20-12-1946, lời kêu gọi nhân dân cả nước đứng dậy chống thực dân Pháp của Chủ tịch Hồ Chí Minh vang lên trên sóng Đài TNVN khắp mọi miền Tổ quốc.
+
+<figure><img src=".gitbook/assets/LoiKeuGoiToanQuocKhangChien.jpg" alt=""><figcaption><p>"Lời kêu gọi toàn quốc kháng chiến" của Chủ tịch Hồ Chí Minh.</p></figcaption></figure>
 
 Bài hiệu triệu của Chủ tịch Hồ Chí Minh, dài vỏn vẹn 19 dòng với 199 từ và được Người viết tại làng Vạn Phúc, Hà Đông (nay thuộc Hà Nội), đã thể hiện những quan điểm cốt lõi của Người về kháng chiến toàn dân, cũng như mệnh lệnh của non sông, thôi thúc cả dân tộc chung sức, đồng lòng vùng dậy quyết chiến, quyết thắng quân Pháp xâm lược.
 
