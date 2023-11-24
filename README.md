@@ -3,13 +3,13 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
-    visible: false
+    visible: true
 ---
 
 # Những tác phẩm trở thành “Bảo vật Quốc gia” của Chủ tịch Hồ Chí Minh
