@@ -27,3 +27,5 @@ Ra đời trong thời khắc lịch sử đặc biệt, “Lời kêu gọi to�
 {% embed url="https://youtu.be/jybyPff6o-Y?si=pg1lwCvPxYkO_h3q" %}
 “Lời kêu gọi toàn quốc kháng chiến” - Sự khẳng định ý chí và quyết tâm sắt đá bảo vệ nền độc lập
 {% endembed %}
+
+> Nguồn: [https://cand.com.vn/thoi-su/Nhung-tac-pham-tro-thanh-Bao-vat-Quoc-gia-cua-Chu-tich-Ho-Chi-Minh-i534352/](https://cand.com.vn/thoi-su/Nhung-tac-pham-tro-thanh-Bao-vat-Quoc-gia-cua-Chu-tich-Ho-Chi-Minh-i534352/)
