@@ -71,3 +71,7 @@ Có thể thấy,  "Ngắm trăng" là bài thơ thất ngôn tứ tuyệt đư�
 {% embed url="https://youtu.be/J7Xr5QQ1wC4?si=Ko3zFJHpky2Zkl6B" %}
 Phân tích bài thơ Ngắm Trăng (Vọng Nguyệt) của Hồ Chí Minh - TÁC PHẨM VỀ TRĂNG HAY NHẤT CỦA NGƯỜI
 {% endembed %}
+
+
+
+> Nguồn: [https://luatminhkhue.vn/cam-nhan-ve-dep-tam-hon-cua-bac-qua-bai-tho-ngam-trang.aspx](https://luatminhkhue.vn/cam-nhan-ve-dep-tam-hon-cua-bac-qua-bai-tho-ngam-trang.aspx)
