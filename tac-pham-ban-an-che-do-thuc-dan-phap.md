@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
+---
+
 # Tác phẩm "Bản án chế độ thực dân Pháp"
 
 Trải qua quá trình học tập, rèn luyện và đấu tranh trong phong trào công nhân quốc tế, với những điều mắt thấy tai nghe ở các nước thuộc địa và những tài liệu sưu tầm được ở Thư viện quốc gia Pháp, đồng chí Nguyễn Ái Quốc đã hoàn thành cuốn Bản án chế độ thực dân Pháp (Le Procès de la colonisation Francaise).
